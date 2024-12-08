@@ -1,0 +1,10 @@
+.bgImage {
+  background-image: url("./assets/AboutHero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aboutScene {
+  background-image: url("./assets/AboutScene.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
